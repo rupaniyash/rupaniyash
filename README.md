@@ -40,13 +40,13 @@ I built a hand gesture-controlled robot during my undergrad which improved user 
 
 # 🛠️ Featured Projects
 
-### 🚀 [YouTube Trending Video Data Engineering Pipeline](YOUR_REPO_LINK_HERE)
+### 🚀 [YouTube Trending Video Data Engineering Pipeline](https://github.com/rupaniyash/youtube-data-engineering-project)
 **Tech:** AWS S3, Lambda, Glue, Athena, QuickSight, PySpark
 * Architected a serverless Data Lake to ingest and compress data for **102 Billion+ video views**, reducing storage footprint by **60%**.
 * Developed PySpark ETL jobs to clean datasets, cutting query costs by **50%**.
 * Created dashboards to visualize engagement metrics across 3 international regions for 40,000+ videos.
 
-### 📈 [Financial Markets News Sentiment Analysis](YOUR_REPO_LINK_HERE)
+### 📈 [Financial Markets News Sentiment Analysis](https://github.com/rupaniyash/Financial-Markets-News-Sentiment-Analysis)
 **Tech:** Python, FinBERT, NewsAPI, AWS, NLP
 * Built an automated NLP pipeline analyzing **500+ real-time financial news articles** per run.
 * Integrated the **FinBERT transformer model** to classify sentiment with **~90% accuracy**, outperforming traditional lexicon-based models.
