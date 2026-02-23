@@ -1,5 +1,5 @@
 # 💫 About Me
-**Software & Data Engineer | CS Master's Student at Oregon State University**
+**Data Engineer | CS Master's Student at Oregon State University**
 
 I am a Master of Engineering student specializing in Computer Science with a focus on building scalable ETL pipelines, distributed computing, and AI/ML systems.
 
