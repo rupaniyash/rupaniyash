@@ -8,13 +8,13 @@
 
 ![Oregon State University](https://img.shields.io/badge/Oregon_State_University-M.Eng_Computer_Science-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
 ![GPA](https://img.shields.io/badge/Academic_Focus-AI%2FML_%7C_Distributed_Systems-7C3AED?style=flat-square)
-![Location](https://img.shields.io/badge/📍_Santa_Clara,_CA-Silicon_Valley-8B5CF6?style=flat-square)
+![Location](https://img.shields.io/badge/📍_San_Jose,_CA-Silicon_Valley-8B5CF6?style=flat-square)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rupaniyash.github.io-5B21B6?style=for-the-badge&logo=firefox&logoColor=white)](https://rupaniyash.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Rupani-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-rupani-)
-[![Email](https://img.shields.io/badge/Email-rupaniyash%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupaniyash@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rupaniyash%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupaniyash1818@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rupaniyash-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupaniyash)
 
 <br/>
@@ -36,13 +36,12 @@
 
 </div>
 
-I am a **Master of Engineering** candidate in Computer Science at **Oregon State University**, specializing in distributed data systems, cloud-native infrastructure, and applied AI/ML. My engineering philosophy centers on building **reliable, observable, and scalable** systems — from raw data ingestion through to model-serving endpoints. I approach every problem with a product mindset: performance metrics are not benchmarks, they are guarantees.
+I am a **Master of Engineering** candidate in Computer Science at **Oregon State University**, specializing in distributed data systems, cloud-native infrastructure, and applied AI/ML. My engineering philosophy centers on building **reliable, observable, and scalable** systems, from raw data ingestion through to model-serving endpoints. I approach every problem with a product mindset: performance metrics are not benchmarks, they are guarantees.
 
 Most recently, as an **AI Agent / ML Scientist Intern at GrantAide**, I architected RAG pipelines over unstructured grant corpora, integrated FAISS-backed vector search, and reduced backend latency by **30%** through async optimization and caching layers. Prior to that, I built ETL workflows processing **102B+ data points** via AWS Glue, Lambda, and PySpark on serverless data lake architectures.
 
 **Open To:**
-- Data Engineering (Junior → Mid-Level) roles in Bay Area / Remote
-- ML Infrastructure & MLOps Engineering positions
+- Data Engineering (Junior → Mid-Level) roles in USA / Remote
 - Data Platform & Analytics Engineering opportunities
 - Open-source collaboration on LLM, RAG, and pipeline tooling
 
@@ -182,32 +181,6 @@ Documents the complete lifecycle: Dockerfile authoring, `.ebextensions` configur
 
 ---
 
-<details>
-<summary><strong>Cold Email Outreach Automation Engine</strong> — LLM-Powered · Multi-API Integration · Job Search Automation</summary>
-
-<br/>
-
-A fully automated outreach system that combines company research, lead enrichment, and LLM-generated personalized emails into a single Airflow-orchestrated pipeline. Designed for high-volume, high-quality cold email campaigns at scale.
-
-<div align="center">
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python, Flask, Airflow, Claude API, Gemini API, Hunter.io, Apollo.io, PostgreSQL |
-| **Scale** | Multi-company batch processing with deduplication and rate-limit management |
-| **Performance** | Fully async orchestration · configurable concurrency · retry policies |
-| **Security** | Secret management via env vars · API key rotation · output sanitization |
-| **Impact** | End-to-end automation from target company to inbox-ready personalized email |
-| **Repository** | [github.com/rupaniyash](https://github.com/rupaniyash) |
-
-</div>
-
-Orchestrates company research via Playwright scraping, enriches leads through Hunter.io and Apollo APIs, and generates personalized outreach copy via Claude and Gemini LLMs. Airflow DAGs handle scheduling, error recovery, and audit logging throughout the pipeline.
-
-</details>
-
----
-
 ## Experience
 
 ### AI Agent / Machine Learning Scientist Intern — GrantAide
@@ -230,25 +203,6 @@ Embedded as a core AI/ML engineer on a early-stage grant intelligence platform, 
 
 ---
 
-### Data Engineering & ML Infrastructure Projects — Independent / Open Source
-**2023 – Present**
-
-Independently designed, built, and shipped multiple production-grade data engineering and AI infrastructure projects spanning cloud data lakes, real-time NLP pipelines, LLM-powered automation, and containerized deployments.
-
-- Built a **serverless AWS data lake** processing 102B+ YouTube records using Glue, Lambda, S3, Athena, and PySpark
-- Developed a **FinBERT-powered NLP pipeline** for real-time financial news sentiment classification at ~90% accuracy
-- Engineered a **cold email automation engine** integrating Claude, Gemini, Hunter.io, Apollo, and Airflow orchestration
-- Authored a **Docker + AWS Elastic Beanstalk deployment framework** adopted as a reusable CI/CD blueprint
-- Explored **audio processing pipelines** with Whisper/WhisperX for diarization and emotion analysis
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
----
-
 ## Achievements
 
 <div align="center">
@@ -268,35 +222,14 @@ Independently designed, built, and shipped multiple production-grade data engine
 
 ## Certifications
 
-<div align="center">
-
-### Amazon Web Services
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-### Oracle
-![Oracle SQL](https://img.shields.io/badge/Oracle-Database_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Programming_in_Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
-![NPTEL Data Science](https://img.shields.io/badge/NPTEL-Data_Science_for_Engineers-7C3AED?style=for-the-badge)
-
-### Cisco
-![Cisco Networking](https://img.shields.io/badge/Cisco-Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco CyberOps](https://img.shields.io/badge/Cisco-CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
 ---
 
 ## Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-rupaniyash-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rupaniyash)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rupaniyash-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rupaniyash)
-[![HackerRank](https://img.shields.io/badge/HackerRank-rupaniyash-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/rupaniyash)
-[![CodeChef](https://img.shields.io/badge/CodeChef-rupaniyash-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rupaniyash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rupaniyash-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rupaniyash1818/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rupaniyash-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rupaniyash)
 
 </div>
 
@@ -388,7 +321,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-rupaniyash%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupaniyash@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-rupaniyash%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupaniyash1818@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--rupani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-rupani-)
 [![GitHub](https://img.shields.io/badge/GitHub-rupaniyash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupaniyash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rupaniyash.github.io-5B21B6?style=for-the-badge&logo=firefox&logoColor=white)](https://rupaniyash.github.io/portfolio/)
